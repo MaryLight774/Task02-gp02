@@ -22,3 +22,8 @@ O correto é: "Quem tem boca vaia Roma"
 
 Ditado 5: "São ossos do ofício"
 O correto é: "São ócios do ofício"
+
+<hr>
+
+Ditado 6: "Hoje é domingo, pé de cachimbo"
+O correto é: "Hoje é domingo, pede cachimbo"
