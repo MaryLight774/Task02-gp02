@@ -13,3 +13,8 @@ O correto é: "Corro de burro quando foge"
 Ditado 3: "Quem não tem cão, caça com gato"
 O correto é: "Quem não tem cão, caça como gato" (Ou seja, sozinho)
 
+<br>
+
+Ditado 4: "Quem tem boca vai a Roma"
+
+O correto é: "Quem tem boca vaia Roma"
